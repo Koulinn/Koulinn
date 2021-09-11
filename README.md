@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Koulinn.Koulinn)
 
 
-⭐️ From [Koulinn](https://github.com/Koulinn)
+
