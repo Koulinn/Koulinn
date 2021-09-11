@@ -24,4 +24,7 @@ Here are some ideas to get you started:
 
 [![Koulinn's github stats](https://github-readme-stats.vercel.app/api?username=Koulinn&theme=blue-green)](https://github.com/Koulinn/github-readme-stats)
 
+[![Koulinn's github stats](https://github-readme-stats.vercel.app/api?username=Koulinn&theme=blue-green)](https://github.com/Koulinn/github-readme-stats)
+
+
 
