@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Koulinn.Koulinn)
 
 
+ [![visual_studio_code](./src/visual_studio_code.svg)](https://badges.aleen42.com/src/visual_studio_code.svg)
+
+
 
