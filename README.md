@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/drdverzola@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:drdverzola@gmail.com)](mailto:drdverzola@gmail.com) 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Koulinn.Koulinn)
 
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Koulinn?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Koulinn.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Koulinn?tab=followers)
 
 
 
