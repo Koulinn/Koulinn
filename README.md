@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 [![GitHub followers](https://img.shields.io/github/followers/Koulinn.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Koulinn?tab=followers)
 
 
+[![Koulinn's github stats](https://github-readme-stats.vercel.app/api?username=Koulinn&theme=blue-green)](https://github.com/Koulinn/github-readme-stats)
 
 
