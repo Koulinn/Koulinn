@@ -7,10 +7,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at Strive School.
 - 🌱 I’m always learning something new.
-- 👯 I’m love to solve problems.
+- 👯 I love to solve problems.
 - 💬 Ask me about anything that you want.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rafavpl/)
-- 😄 Pronouns: he / him
 - ⚡ Fun fact: I was a veterinarian surgeon :), yep I love cats .
 
 
