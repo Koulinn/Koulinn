@@ -5,16 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying at Strive School.
-- 🌱 I’m always learning something new.
-- 👯 I love to solve problems.
+- 🔭 I’m a tutor (volunteer) at Strive School.
+- 🤩 Currently, I'm building 2 startups (Zona Brasil and AUX).
+- 🌱 I love interaction design.
+- 👯 Challenges drives me.
 - 💬 Ask me about anything that you want.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rafavpl/)
-- ⚡ Fun fact: I was a veterinarian surgeon :), yep I love cats .
+- 📫 How to reach me: [Portfolio Website](https://rafa-fs-developer-ux-designer.vercel.app/#/)
+- ⚡ Fun fact: I was a veterinarian surgeon :), I love cats.
 
 
 
-[![Gmail Badge](https://img.shields.io/badge/drdverzola@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:drdverzola@gmail.com)](mailto:drdverzola@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/drdverzola@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rafauxdev@gmail.com)](mailto:rafauxdev@gmail.com) 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Koulinn.Koulinn)
 
 [![GitHub followers](https://img.shields.io/github/followers/Koulinn.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Koulinn?tab=followers)
