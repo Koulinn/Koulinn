@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m a tutor (volunteer) at Strive School.
-- 🤩 Currently, I'm building 2 startups (Zona Brasil and AUX).
-- 🌱 I love interaction design.
+- 🤩 Currently, I'm participating as volunteer in 2 startups (Zona Brasil and AUX).
+- 🌱 I love interaction design, customer experience and coding.
 - 👯 Challenges drives me.
 - 💬 Ask me about anything that you want.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rafavpl/)
