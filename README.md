@@ -1,12 +1,13 @@
 # Rafa Lima 😃
 
-- Full Stack Devloper
+- Full Stack Developer (MERN)
 - UX designer
+- Cake lover 
 
 Here are some ideas to get you started:
 
 - 🔭 I’m a tutor (volunteer) at Strive School.
-- 🤩 Currently, I'm participating as volunteer in 2 startups (Zona Brasil and AUX).
+- 🤩 Currently, I participate as volunteer in 2 projects (Zona Brasil and AUX).
 - 🌱 I love interaction design, customer experience and coding.
 - 👯 Challenges drives me.
 - 💬 Ask me about anything that you want.
