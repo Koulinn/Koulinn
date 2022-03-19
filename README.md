@@ -2,18 +2,20 @@
 
 - Full Stack Developer (MERN)
 - UX designer
-- Cake lover 
+- Cake lover
+- Making dreams come true 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m a tutor (volunteer) at Strive School.
-- 🤩 Currently, I participate as volunteer in 2 projects (Zona Brasil and AUX).
+- Currently, I'm soft dev at Dedalus S2
+- 🔭 I was tutor at EpiCodeGlobla.
+- 🤩 Currently, I'm participate as volunteer in a project (AUX).
 - 🌱 I love interaction design, customer experience and coding.
-- 👯 Challenges drives me.
+- 👯 I love to solve problems.
 - 💬 Ask me about anything that you want.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rafavpl/)
 - 📫 How to reach me: [Portfolio Website](https://rafa-fs-developer-ux-designer.vercel.app/#/)
-- ⚡ Fun fact: I was a veterinarian surgeon :), I love cats.
+- ⚡ Fun fact: From veterinary doctor to soft dev :)
 
 
 
