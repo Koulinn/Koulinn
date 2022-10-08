@@ -7,9 +7,10 @@
 
 Here are some ideas to get you started:
 
-- Currently, I'm software developer at Dedalus
+- Currently, I'm a software developer at Dedalus.
 - 🔭 I was tutor at EpiCodeGlobla.
 - 🤩 I participated as volunteer in a many projects.
+- 🤩 I love healthcare, well-being and educational projects as volunteer in a many projects.
 - 🌱 I love interaction design, customer experience and coding.
 - 👯 I love to solve problems.
 - 💬 Ask me about anything that you want.
