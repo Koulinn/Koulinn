@@ -7,15 +7,15 @@
 
 Here are some ideas to get you started:
 
-- Currently, I'm soft dev at Dedalus S2
+- Currently, I'm software developer at Dedalus
 - 🔭 I was tutor at EpiCodeGlobla.
-- 🤩 Currently, I'm participate as volunteer in a project (AUX).
+- 🤩 I participated as volunteer in a many projects.
 - 🌱 I love interaction design, customer experience and coding.
 - 👯 I love to solve problems.
 - 💬 Ask me about anything that you want.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rafavpl/)
 - 📫 How to reach me: [Portfolio Website](https://rafa-fs-developer-ux-designer.vercel.app/#/)
-- ⚡ Fun fact: From veterinary doctor to soft dev :)
+- ⚡ Fun fact: I'm a ex-veterinary surgeon :)
 
 
 
