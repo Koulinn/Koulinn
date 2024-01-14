@@ -1,22 +1,20 @@
 # Rafa Lima 😃
 
 - Full Stack Developer (MERN)
-- UX designer
+- Passionate about UX design and delivering great User Experience
 - Cake lover
-- Making dreams come true 
+- Gamer | Foodie
 
 Here are some ideas to get you started:
 
-- Currently, I'm a software developer at Dedalus.
-- 🔭 I was tutor at EpiCodeGlobla.
-- 🤩 I participated as volunteer in a many projects.
-- 🤩 I love healthcare, well-being and educational projects as volunteer in a many projects.
+- Currently, I'm a software engineer at Dedalus.
+- 🔭 I was a tutor at EpiCodeGlobal.
+- 🤩 I love healthcare, well-being and life-changing projects.
 - 🌱 I love interaction design, customer experience and coding.
 - 👯 I love to solve problems.
 - 💬 Ask me about anything that you want.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rafavpl/)
-- 📫 How to reach me: [Portfolio Website](https://rafa-fs-developer-ux-designer.vercel.app/#/)
-- ⚡ Fun fact: I'm a ex-veterinary surgeon :)
+- ⚡ Fun fact: I'm an ex-veterinary surgeon :)
 
 
 
