@@ -1,6 +1,6 @@
 # Rafa Lima 😃
 
-- Full Stack Developer (MERN)
+- Full Stack Developer
 - Passionate about UX design and delivering great User Experience
 - Cake lover
 - Gamer | Foodie
